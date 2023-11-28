@@ -11,7 +11,7 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<video id="background-video" autoplay loop muted>
+<video id="background-video" autoplay muted>
   <source src={video} type="video/mp4">
 </video>
 
