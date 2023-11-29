@@ -2,6 +2,10 @@
 
 The official demo app for SvelteKit, hosted on Vercel.
 
+## Acknowledgements
+
+The icons were taken from [Iconfinder](https://www.iconfinder.com) and used under the [Creative Commons (Attribution 3.0 Unported)](https://creativecommons.org/licenses/by/3.0) license, with no changes.
+
 ## Deploy Your Own
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fvercel%2Ftree%2Fmain%2Fexamples%2Fsveltekit-1&project-name=sveltekit-vercel&repository-name=sveltekit-vercel&demo-title=SvelteKit%20%2B%20Vercel&demo-url=https%3A%2F%2Fsveltekit-template.vercel.app%2F)
