@@ -71,6 +71,7 @@
 	}
 
 	footer {
+		margin-top: auto;
 		display: flex;
 		/* flex-direction: column; */
 		justify-content: center;
