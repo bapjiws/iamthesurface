@@ -63,28 +63,26 @@
 	main {
 		flex: 1;
 		display: flex;
-    height: 100%;
     flex-direction: column;
     justify-content: center;
 		padding: 1rem;
-		width: 100%;
 		box-sizing: border-box;
 	}
 
 	footer {
 		margin-top: auto;
 		display: flex;
-		/* flex-direction: column; */
 		justify-content: center;
 		align-items: center;
 		padding: 24px;
+		box-sizing: border-box;
     position: fixed;
     bottom: 0;
 	}
 
 	footer a {
 		font-weight: bold;
-		margin: 8px;
+		margin: 1rem;
 		height: 32px;
 		width: 32px;
 	}
