@@ -82,7 +82,7 @@
 
 	footer a {
 		font-weight: bold;
-		margin: 1rem;
+		margin: 0.5rem;
 		height: 32px;
 		width: 32px;
 	}
