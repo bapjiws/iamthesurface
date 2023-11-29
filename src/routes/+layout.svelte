@@ -32,7 +32,7 @@
 	</main>
 
 	<footer>
-		<a href="https://bapjiws.bandcamp.com" target="_blank" rel="noopener">
+		<a href="https://iamthesurface.bandcamp.com" target="_blank" rel="noopener">
 			<Bandcamp />
 		</a>
 		<a href="https://soundcloud.com/iamthesurface_iamthelion" target="_blank" rel="noopener">
