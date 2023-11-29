@@ -9,14 +9,12 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<div class="text-column">
-	<article>
-		Like mountains that ceased the above,<br />
-		Like autumn reclaiming its leaves,<br />
-		Untake from the ones that you love,<br />
-		Ungive from your most precious deeds.
-	</article>
-</div>
+<article>
+	Like mountains that ceased the above,<br />
+	Like autumn reclaiming its leaves,<br />
+	Untake from the ones that you love,<br />
+	Ungive from your most precious deeds.
+</article>
 
 <!-- <section> -->
 <!-- 	<h1> -->
