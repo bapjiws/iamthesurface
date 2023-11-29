@@ -16,8 +16,15 @@
 	color: var(--color-text);
 }
 
+html {
+    height: fill-available;
+    height: -webkit-fill-available;
+}
+
 body {
 	min-height: 100vh;
+	min-height: fill-available;
+	min-height: -webkit-fill-available;
 	margin: 0;
 	background-attachment: fixed;
 	/* background-color: var(--color-bg-1); */
@@ -64,7 +71,7 @@ article {
 	/* font-size: 18px; */
 	font-size: 1.5rem;
 	font-family: var(--font-mono);
-  text-align: center;
+	text-align: center;
 }
 
 pre {

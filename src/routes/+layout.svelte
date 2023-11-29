@@ -56,15 +56,15 @@
 	.app {
 		display: flex;
 		flex-direction: column;
-    align-items: center;
+		align-items: center;
 		min-height: 100vh;
 	}
 
 	main {
 		flex: 1;
 		display: flex;
-    flex-direction: column;
-    justify-content: center;
+		flex-direction: column;
+		justify-content: center;
 		padding: 1rem;
 		box-sizing: border-box;
 	}
@@ -76,8 +76,8 @@
 		align-items: center;
 		padding: 24px;
 		box-sizing: border-box;
-    position: fixed;
-    bottom: 0;
+		position: fixed;
+		bottom: 0;
 	}
 
 	footer a {
