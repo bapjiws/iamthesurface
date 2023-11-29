@@ -32,46 +32,21 @@
 	</main>
 
 	<footer>
-		<a
-			href="https://bapjiws.bandcamp.com"
-			target="_blank"
-			rel="noopener"
-		>
+		<a href="https://bapjiws.bandcamp.com" target="_blank" rel="noopener">
 			<Bandcamp />
 		</a>
-		<a
-			href="https://soundcloud.com/iamthesurface_iamthelion"
-			target="_blank"
-			rel="noopener"
-		>
+		<a href="https://soundcloud.com/iamthesurface_iamthelion" target="_blank" rel="noopener">
 			<SoundCloud />
 		</a>
-		<a
-			href="https://open.spotify.com/track/6kYQstzc8ptJIIINlm6QSD"
-			target="_blank"
-			rel="noopener"
-		>
+		<a href="https://open.spotify.com/track/6kYQstzc8ptJIIINlm6QSD" target="_blank" rel="noopener">
 			<Spotify />
 		</a>
-		<a
-			href="https://www.youtube.com/@iamthesurface_iamthelion"
-			target="_blank"
-			rel="noopener"
-		>
+		<a href="https://www.youtube.com/@iamthesurface_iamthelion" target="_blank" rel="noopener">
 			<YouTube />
 		</a>
-		<a
-			href="https://www.instagram.com/iamthesurface_official/"
-			target="_blank"
-			rel="noopener"
-		>
+		<a href="https://www.instagram.com/iamthesurface_official/" target="_blank" rel="noopener">
 			<Instagram />
-		</a>
-		<a
-			href="https://www.tiktok.com/@iamthesurface_official"
-			target="_blank"
-			rel="noopener"
-		>
+		</a><a href="https://www.tiktok.com/@iamthesurface_official" target="_blank" rel="noopener">
 			<TikTok />
 		</a>
 	</footer>
@@ -105,7 +80,7 @@
 
 	footer a {
 		font-weight: bold;
-    margin: 8px;
+		margin: 8px;
 		height: 32px;
 		width: 32px;
 	}
