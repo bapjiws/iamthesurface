@@ -61,7 +61,8 @@ h2 {
 }
 
 article {
-	font-size: 18px;
+	/* font-size: 18px; */
+	font-size: 1.5rem;
 	font-family: var(--font-mono);
   text-align: center;
 }
@@ -79,8 +80,8 @@ pre {
 
 .text-column {
 	display: flex;
-	max-width: 48rem;
-	flex: 0.6;
+	/* max-width: 48rem; */
+	/* flex: 0.6; */
 	flex-direction: column;
 	justify-content: center;
 	margin: 0 auto;
