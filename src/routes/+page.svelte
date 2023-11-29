@@ -2,10 +2,6 @@
 	/* import Counter from './Counter.svelte'; */
 	/* import welcome from '$lib/images/svelte-welcome.webp'; */
 	/* import welcome_fallback from '$lib/images/svelte-welcome.png'; */
-
-	import cover from '$lib/images/cover.jpg';
-	import sign from '$lib/images/sign.png';
-  import video from '$lib/videos/1080.mp4';
 </script>
 
 <svelte:head>
@@ -13,27 +9,15 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<!-- <video id="background-video" autoplay muted> -->
-<!--   <source src={video} type="video/mp4"> -->
-<!-- </video> -->
-
-<!-- <img src={sign} alt="Background" /> -->
-
-<!-- <section> -->
-<!--   <h1>Music</h1> -->
-<!-- </section> -->
-
 <div class="text-column">
-	<!-- <h1>Ungive | Untake</h1> -->
-
 	<article>
-    Like mountains that ceased the above,<br>
-    Like autumn reclaiming its leaves,<br>
-    Untake from the ones that you love,<br>
-    Ungive from your most precious deeds.
-  </article>
-
+		Like mountains that ceased the above,<br />
+		Like autumn reclaiming its leaves,<br />
+		Untake from the ones that you love,<br />
+		Ungive from your most precious deeds.
+	</article>
 </div>
+
 <!-- <section> -->
 <!-- 	<h1> -->
 <!-- 		<span class="welcome"> -->
@@ -54,12 +38,6 @@
 <!-- </section> -->
 
 <style>
-  /* video { */
-  /*   width: 100%; */
-  /*   height: 100%; */
-  /*   object-fit: cover; */
-  /* } */
-
 	/* section { */
 	/* 	display: flex; */
 	/* 	flex-direction: column; */
