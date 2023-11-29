@@ -47,6 +47,13 @@
 			<SoundCloud />
 		</a>
 		<a
+			href="https://open.spotify.com/track/6kYQstzc8ptJIIINlm6QSD"
+			target="_blank"
+			rel="noopener"
+		>
+			<Spotify />
+		</a>
+		<a
 			href="https://www.youtube.com/@iamthesurface_iamthelion"
 			target="_blank"
 			rel="noopener"
@@ -66,13 +73,6 @@
 			rel="noopener"
 		>
 			<TikTok />
-		</a>
-		<a
-			href="https://open.spotify.com/track/6kYQstzc8ptJIIINlm6QSD"
-			target="_blank"
-			rel="noopener"
-		>
-			<Spotify />
 		</a>
 	</footer>
 </div>
