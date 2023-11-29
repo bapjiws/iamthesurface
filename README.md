@@ -4,7 +4,7 @@ The official demo app for SvelteKit, hosted on Vercel.
 
 ## Acknowledgements
 
-The icons were taken from [Iconfinder](https://www.iconfinder.com) and used under the [Creative Commons (Attribution 3.0 Unported)](https://creativecommons.org/licenses/by/3.0) license, with removing the `<?xml version="1.0" ?>` tag, width and height props from the SVG files where necessary.
+The icons were taken from [Iconfinder](https://www.iconfinder.com) and used under the [Creative Commons (Attribution 3.0 Unported)](https://creativecommons.org/licenses/by/3.0) license, with removing the `<?xml version="1.0" ?>` and `<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>` tags, width and height props from the SVG files where necessary.
 
 ## Deploy Your Own
 
