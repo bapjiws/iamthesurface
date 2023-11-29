@@ -12,19 +12,6 @@
 	import TikTok from '$lib/icons/TikTok.svelte';
 	import YouTube from '$lib/icons/YouTube.svelte';
 
-	if (browser) {
-		const setHeight = () => {
-			document.getElementById('app').style.minHeight = window.innerHeight + 'px';
-		};
-
-		let deviceWidth = window.matchMedia('(max-width: 1024px)');
-
-		if (deviceWidth.matches) {
-			window.addEventListener('resize', setHeight);
-			setHeight();
-		}
-	}
-
 	/** @type {import('./$types').LayoutServerData} */
 	export let data;
 
@@ -37,7 +24,7 @@
 	}
 </script>
 
-<div id="app">
+<div class="app">
 	<!-- <Header /> -->
 
 	<main>
@@ -66,7 +53,7 @@
 </div>
 
 <style>
-  #app {
+	.app {
 		display: flex;
 		flex-direction: column;
 		align-items: center;
