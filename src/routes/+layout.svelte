@@ -83,8 +83,8 @@
 	footer a {
 		font-weight: bold;
 		margin: 0.5rem;
-		height: 32px;
-		width: 32px;
+		height: 2.5rem;
+		width: 2.5rem;
 	}
 
 	@media (min-width: 480px) {
