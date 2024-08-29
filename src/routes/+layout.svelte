@@ -7,13 +7,6 @@
 	/* import Header from './Header.svelte'; */
 	import './styles.css';
 
-	import Bandcamp from '$lib/icons/Bandcamp.svelte';
-	import Instagram from '$lib/icons/Instagram.svelte';
-	import SoundCloud from '$lib/icons/SoundCloud.svelte';
-	import Spotify from '$lib/icons/Spotify.svelte';
-	import TikTok from '$lib/icons/TikTok.svelte';
-	import YouTube from '$lib/icons/YouTube.svelte';
-
 	inject({ mode: dev ? 'development' : 'production' });
 
 	/** @type {import('./$types').LayoutServerData} */
@@ -36,23 +29,6 @@
 	</main>
 
 	<footer>
-		<a href="https://iamthesurface.bandcamp.com" target="_blank" rel="noopener">
-			<Bandcamp />
-		</a>
-		<a href="https://soundcloud.com/iamthesurface_iamthelion" target="_blank" rel="noopener">
-			<SoundCloud />
-		</a>
-		<a href="https://open.spotify.com/track/6kYQstzc8ptJIIINlm6QSD" target="_blank" rel="noopener">
-			<Spotify />
-		</a>
-		<a href="https://www.youtube.com/@iamthesurface_iamthelion" target="_blank" rel="noopener">
-			<YouTube />
-		</a>
-		<a href="https://www.instagram.com/iamthesurface_official/" target="_blank" rel="noopener">
-			<Instagram />
-		</a><a href="https://www.tiktok.com/@iamthesurface_official" target="_blank" rel="noopener">
-			<TikTok />
-		</a>
 	</footer>
 </div>
 
@@ -84,16 +60,4 @@
 		bottom: 0;
 	}
 
-	footer a {
-		font-weight: bold;
-		margin: 0.5rem;
-		height: 2.5rem;
-		width: 2.5rem;
-	}
-
-	@media (min-width: 480px) {
-		footer {
-			padding: 24px 0;
-		}
-	}
 </style>
